@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- app:actionViewClass="android.widget.SearchView" -->
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/zoomIn"
+        android:icon="@android:drawable/btn_plus"
+        android:title="@string/zoom_in"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ZoomOut"
+        android:icon="@android:drawable/btn_minus"
+        android:title="@string/zoom_out"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/shareText"
+        android:title="@string/shareText"
+        app:showAsAction="never" />
+</menu>

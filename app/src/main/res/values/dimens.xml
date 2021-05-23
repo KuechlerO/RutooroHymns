@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Song-text margins  -->
+    <dimen name="song_margin_left">10dp</dimen>
+    <dimen name="song_margin_right">10dp</dimen>
+    <dimen name="song_margin_bottom">10dp</dimen>
+    <dimen name="song_margin_top">10dp</dimen>
+
+    <!-- Song-page search-margins  -->
+    <dimen name="song_page_search_margin">40dp</dimen>
+
+    <!-- Button distance  -->
+    <dimen name="button_dist">20dp</dimen>
+
+    <!-- Font sizes -->
+    <dimen name="font_size_small_small">14sp</dimen>
+    <dimen name="font_size_small_medium">16sp</dimen>
+    <dimen name="font_size_small_large">18sp</dimen>
+    <dimen name="font_size_small_xlarge">20sp</dimen>
+
+
+    <dimen name="font_size_medium_small">18sp</dimen>
+    <dimen name="font_size_medium_medium">20sp</dimen>
+    <dimen name="font_size_medium_large">22sp</dimen>
+    <dimen name="font_size_medium_xlarge">24sp</dimen>
+
+    <dimen name="font_size_large_small">22sp</dimen>
+    <dimen name="font_size_large_medium">24sp</dimen>
+    <dimen name="font_size_large_large">26sp</dimen>
+    <dimen name="font_size_large_xlarge">28sp</dimen>
+
+    <dimen name="font_size_xlarge_small">26sp</dimen>
+    <dimen name="font_size_xlarge_medium">28sp</dimen>
+    <dimen name="font_size_xlarge_large">30sp</dimen>
+    <dimen name="font_size_xlarge_xlarge">32sp</dimen>
+</resources>

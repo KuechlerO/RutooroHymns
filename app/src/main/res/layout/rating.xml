@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dip">
+
+
+    <TextView
+        android:id="@+id/thanks_intro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/song_margin_bottom"
+
+        android:text="@string/rating_intro"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="?attr/font_medium"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/thanks_sabitii"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/song_margin_bottom"
+
+        android:text="@string/rating_message"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="?attr/font_small" />
+
+</LinearLayout>

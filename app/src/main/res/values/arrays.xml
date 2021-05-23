@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bgColor">
+        <item>White</item>
+        <item>Champagne</item>
+        <item>Platinum</item>
+    </string-array>
+    <string-array name="bgColorValues">
+        <item>#FFFFFF</item>
+        <item>#F7E7CE</item>
+        <item>#E5E4E2</item>
+    </string-array>
+
+    <!-- Font Sizes 2 -->
+    <string-array name="fontSizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Extra-Large</item>
+    </string-array>
+    <string-array name="fontSizesValues">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>XLarge</item>
+    </string-array>
+</resources>

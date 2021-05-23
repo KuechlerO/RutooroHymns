@@ -1,0 +1,225 @@
+1;MULETERE MUKAMA IRAKA LY’OKUSEMERERWA;Exhortation to Praise the Lord
+2;IWE ARUKWERA;Holy, Holy, Holy
+3;KATUKUGIZE RUHANGA;We Praise Thee O God
+4;HABW’EMIGISA YE YOONA;Praise God from whom all blessings
+5;RUHANGA W’OBUSOBOZI;
+6;OBUKURU BWA MUKAMA;I sing the Mighty Power
+7;BOONA BAKUGIZE MUKAMA;O for a Thousand Tongues
+8;NINKUSIIMA YESU KRISTO;O Happy Day!
+9;TUGONZA OKUZINA HA YESU;Redeemed! How I Love to Proclaim It
+10;NZINA OKUGONZA KWE;I will sing of Jesus’ Love
+11;YESU IJA NAMBERE NDI;Come Thou Fount of Every Blessing
+12;SISIMUKA MWOYO GWANGE;Awake My Soul
+13;RUHANGA NTUKUKUGIZA;New Every Morning
+14;YESU MUKAMA OHURRE;Lord in the Morning
+15;ENU SAAHA Y’OKUSABA;Sweet Hour of Prayer
+16;SERRAGA MUKAMA OMU KUSABA;Take time to be Holy
+17;IZOOBA LY’OMWOYO GWANGE;Sun of My Soul
+18;IZOOBA OBULYAGWIRE;At Even, Ere the sun was Set
+19;IKARA NA NYOWE;Abide with Me
+20;NYAMUSANA N’EKIRO;Day is Dying in the West
+21;HABW’OKUIKIRIZA;My Faith Look Up to Thee
+22;ENGANJANI YAITU YESU;What a Friend We Have in Jesus!
+23;TUKWESIGA IWE MUKAMA;Tis so Sweet to Trust
+24;OBUTUIKARA HAMU NA YESU;When We Walk with the Lord
+25;OBUNTUNGA OBUSINGE;When Peace like a River
+26;RUHANGA ISIITWE;Come Thou Almighty
+27;IBARALYA YESU LISEMIIRE;How Sweet the Name of Jesus Sounds
+28;TWARA ENSI OMPE YESU;Take the World but Give Me Jesus
+29;YESU AYANGONDOZE;Jesus Lover of My Soul
+30;TWARA IBARA LYA YESU;Take the Name of Jesus
+31;NINGONZA OMUCUNGUZI;I must have the Savior with Me
+32;MU RUGENDO RWANGE RWONA;All the way My Savior Leads Me
+33;IWE YAHWE ARUKWERA;Guide me, O Great Jehovah
+34;ONKONYEREGE NYESIGE;My Hope is Built on Nothing Less
+35;BWONA GUMIRA HALI RUHANGA;Firmly Stand for God
+36;YESU MUJUNI OLI WANGE;Blessed Assurance
+37;ANTEREKEREZA YESU;He Leadeth Me
+38;OBWOMEEZI BWANGE BUKYANGANUKA;What A Fellowship
+39;ABASIISI BOONA OMU NSI;Chief of Sinners
+40;NYOWE NKAHABIRA OMU NSI;I’ve wondered Far away
+41;YESU NANGAMBIRA OKUNDI;I Hear the Savior Say
+42;NYIJA HA MUSALABA;I am coming to the Cross
+43;MUKAMA NINGONZA OKUBA OMURUNGI;Lord Jesus, I Long to be Parfectly Whole
+44;OTAMPINGURA MUJUNI;Pass Me Not, O Gentle Savior
+45;NKWETAAGA AI MUKAMA;Blessed Lord, How much I need Thee
+46;AI YESU TWIZIRE;Father We Come to Thee
+47;EMIGISA YAAWE MUKAMA;Lord I Hear of Showers of Blessing
+48;SEMERERWA HABW’EKI;We Have Heard
+49;INYWE MUIJE HALl YESU;Come to the Savior Make no Delay
+50;OMULIISA OMURUNGI AKWESIRE;Lovingly, Tenderly Calling
+51;YESU ALI HA RWIGI;There’s a Stranger at the Door
+52;NKAHAYO OBWOMEEZI;I Gave My Life for Thee
+53;MUGUME HABWA YESU;Stand up! Stand up for Jesus
+54;AHAKUBANZA YESU;The Sabbath of God
+55;TUSEMERERWA OMU MWOYO;Sweet Sabbath School
+56;SABIITI ERUKWERA;Sabbath Day
+57;EBIRO EBINDI BIHOIRE;Another Six Days are Done
+58;IJUKA EKIRO YESU EKIYATUHAIRE;Don’t Forget the Sabbath
+59;EKIRO KY’OKUSEMERERWA;O Day of Rest and Gladness
+60;TUKUGIZA MUKAMAWAITU;Our Sabbath Worship
+61;MUKAMA EBIRAGIRO BYE;The Law of God
+62;NINYETAAGA OKUHURRA;Sing Them Over Again Philip Bliss
+63;OMU KIGAMBO KYA MUKAMA TUSOMA;Sure Word of Prophecy
+64;MPA EKITABU EKIRUKWERA MUNO;Give Me the Bible
+65;TUSIGEGE NYENKYA;Sowing in the Morning
+66;MUMUHURRE OMULIISA;Hark! Tis the Shepherd’s Voice
+67;MWEKAMBE HATI BUNU;Work for the Night is Coming
+68;MUGENDE OMU NSI ZOONA;For My Sake and the Gospel Go
+69;NOOHA ALIRWANA N’OMUNYANZIGWA;Who is on the Lord’s Side?
+70;JUNA ABANTU ABALI OMU KUFA;Rescue the Perishing
+71;OTETONGANIRRA;Ask Not to be Excused
+72;TEERA ENGOMA OMULINZI;Watchman Blow the Gospel Trumpet
+73;OMANYISE EBYA YESU;More About Jesus
+74; NSEMERERWA OKUGAMBA;I Love to Tell the Story
+75;BARWANI BA YESU;Onward Christian Soldiers!
+76;KANTEKEREZE HA NSI EGI ENUNGI;I am thinking Today
+77;RANYA ENGOMA;Sound the Battle Cry
+78;IBARA LYA YESU OLIMANYIRE?;The Name of Jesus
+79;ABAANA BA RUHANGA OW’AMAANI;Always Cheerful
+80;EMISIRI EYEZIRE;Far and Near the Fields are Teeming
+81;NINYEHAYO YESU HOOLI;All To Jesus I Surrender
+82;NNDAKUHONDERAGA YESU;I will follow thee My Savior
+83;OBUNKABA NDI YORUDADI;On Jordan’s Stormy Banks
+84;OMWOYO ARUKWERA;Holy Spirit Faithfiul Guide
+85;OMWOYO ARUKWERA OMUGABI W’OBWOMEEZI;Come, Gracious Spirit Heavenly Done
+86;AI RUHANGA ISIITWE;Build Their Home
+87;OMUSANA GWAKA HANSOZI;There is Sunlight on the Hilltop
+88;TINGONZA KWESEMEZA N’EBIRUNGI BY’ENSI;Is my Name written there?
+89;AKASUMI K’OMUSANGO KAHIKIRE;The Judgment Has Set
+90;YESU ALISOROZA ABANTU;When Jesus shall gather
+91;YESU AKATWETA HABUGENYI;Called to the Feast
+92;ENGWARA YA YESU ERIGAMBA;When the Trumpet of the Lord
+93;TULITUNGA OBUSINGE;There is a Place of Quiet Rest
+94;HAROHO ENSI EKIRA ENU;There is a Land
+95;OMU RUBUGA RWA RUHANGA;Shall We Gather
+96;OMUJUNI NDI MURORA;Face to Face
+97;MWIJE ABA MUKAMA;Come We that Love the Lord
+98;TIMANYIRE OKWIJA KWA YESU;We know Not the Time when He Cometh
+99;MUKAMA ALI HA RWIGI;The coming King
+100;TEERA ENGOMA MANYISA HOONA;Lift up the Trumpet
+101;ABARUKWERA MUROLE;Watch Ye Saints
+102;MWANA WA YESU KIKI OGWIJAGIRE?;Heir of the Kingdom
+103;NTEBEZA IWE OMULINZI;Watchman Tell Me
+104;OMULINZI HA MUHURUZI;Watchman on the Walls of Zion
+105;OMU RUGENDO TAHO OMUTUMA;Look for the Waymarks
+106;YESU OBWALIBA NAGARUKA;When Jesus Returns
+107;LEKA TUZINE TUTUNGE AMAANI MAINGI;A Little while W’re Going Home
+108;TULI BASERUKALE BA KRISTO YESU;
+109;BULl HANTU HOONA YESU HONTWARA;Anywhere with Jesus
+110;MWANDARA GWA RUHANGA;Rock of Ages Cleft for Me
+111;OBUNDORA OMUSALABA;When I survey the Wondrous Cross
+112;OBUNYIKARA HA BIGERE;At the Feet of Jesus
+113;OKUHIKYA OBWALIIJA;Till He come! O Let the Words
+114;NCWERA OMUGAATI;Break Thou the Bread of Life
+115;MUKAMA MWANDARA GWAITU;The Lord’s our Rock
+116;TWOMBEKE HA MWANDARA KRISTO;We’ll Build on the Rock
+117;OBUTWIKARA HA NSI NA BAGENZI BAITU;With Friends on Earth
+118;BOONA ABAGWIJAGIRA;Them also which Sleep
+119;BANYINA OMUGISA;
+120;RUHANGA AIKALEGE NAINYWE;God be with you
+121;MWEBALE OKWIJA;Welcome to Sabbath School.
+122;NGONZA MUNO OKWIJA;Love to come in Sabbath School
+123;KUGIZA MUKAMA;Praise Him All Ye Little Children
+124;NYENKYA ENUMGI EGAMBA;God Made Me
+125;EMITI NEYEHUUBA;Trees Are Gently Swaying
+126;NOOHA AYAHANGIRE EBYAKYO;Who Made the Flowers
+127;HA IGURU OMU MWANYA;Up, Up, is the Sky
+128;KANYASAMYE AKANWA;I will Open my Mouth
+129;SABAGA NYENKYA KARA;Whisper A Prayer in the Morning
+130;OMU MUTUMA OMU MUTUMA;Into my Heart
+131;MPA AMAGITA OMU TAARA YANGE;Give Me Oil in My Lamp
+132;YESU OBWAIKARA OMU MAKA;Happy, Happy Name
+133;YESU NANGONZA;Jesus Loves me
+134;MUTAKORA OBUBI;Cease to Do Evil
+135;NDIBAFOORA ABASOHI;I will Make You Fishers of Men
+136;NABIREGE OMU NGARO;I washed My Hands
+137;OKUMANYA OMANYIRE;Everybody Ought to Know
+138;NDATEBEZAAGA ENJIRI;I’LL Share My faith
+139;HURRA ENSIMBI;Hear the Pennies Dropping
+140;NDIJWARA EKONDO;I will Wear a crown
+141;MURAME, MURAME;Sabbath School is Over
+142;ENGONZI MBERE ZIRI;There is Beauty all around
+143;MUKAMA IWE MAKA GAITU;O God Our Help in Ages Past
+144;YESU MUKAMA OMUCUNGUZI;Jesus, My Savior, to Bethlehem come
+145;EMIRIMU YAITU OBWERIHWA;O There’ll be Joy
+146;IWE YESU OMUJUNI NIKUGONZA;My Jesus, I Love Thee
+147;KANGENDEGE NAIWE YESU;O Let Me Walk with Thee
+148;MUJUNI NYEGESAGA;Saviour Teach Me Day by Day
+149;NDI MUJASI W’OMUSALABA;A Soldier of the Cross.
+150;YESU MUKAMA OLI MURUNGI;
+151;HAROHO ORUBUGA;
+152;OMUFUMU ALI HAIHI;The Great Physician
+153;YESU OMWOROBI OMUCULEZI OMU MWOYO;Jesus Meek and Humble of Heart
+154;AYI YESU AMAISO GANGE;Jesus These Eyes have never Seen
+155;OTUHE OMURRO GWAWE;O For That Flame of Living Fire
+156;ABASIISI NABETA INYWENA;Seeking The Lost
+157;MU MAISO GA YESU;To God be the Glory
+158;RUHANGA ONYIRIZE;Nearer My God To Thee
+159;ONYESIRE MUKAMA;I Hear Thy Welcome Voice
+160;KINTUKI EKINYOGYA;What Can Wash away My Sins
+161;YESU OKATUNIHIZA ITWENA;Jesus Thou Hast Promissed
+162;TUIMUKE TUIMUKE;
+163;CHULERA, CHULERA, MUKAMA NAIJA;Tread Softly
+164;MWANYAKI OKUTAAHA?;How far from Home?
+165;OKUSABA KWAHIKA;Ti’s the Blessed Hour of Prayer
+166;ONYIRIZE HAIHI MUKAMA;I am Thine, O Lord
+167;AKANFERA HA MUSALABA;Down At the Cross
+168;HAROHO ENSORO EY’ESAGAMA;There is A Fountain
+169;GAMBIRA YESU;Are you Weary?
+170;NGUMIZEMU NINDUBATA;I am Pressing On
+171;AMAANI GA YESU GAKWEREZE?;Have you been to Jesus?
+172;N’EMBABAZI ONGARUKEMU YESU;O Hear my Cry
+173;NINGIRORA NENANATA;The Cleansing Wave
+174;HURRA IRAKA LY’OMUJUNI;Hark the Voice of Jesus
+175;OMU NSI EY’OMU IGURU;In the Land of Fadeless Day
+176;AHULIIRE WEENA;Whosoever Heareth
+177;HARUMU AMAANI;There is Power in the Blood
+178;OMUJUNI OMULIISA WAITU;Savior a Shepherd
+179;NSEMERERWA OKUZINA;I Have a Song I love to Sing
+180;OLIIJADI MUKAMA MUCUNGUZI WAITU?;How Long, O Lord Our Saviour?
+181;TUBIKUHA BYONA BYAWE;We Give Thee But Thine Own
+182;HAROHO ORWIGI ORUKINGWIRE;There is a Gate a Jar
+183;HAIHI N’OMUSALABA;Jesus Keep Me Near the Cross
+184;ISENYOWE NINKWETAAGA;Father, I Stretch My Hands
+185;LEMA OBWOMEEZI BWANGE;Live out Thy Life within Me
+186;WAKUGONDEZE YESU AKUSEMEZE?;Would you Live for Jesus?
+187;NTEKEREZA OKU MU MAKA GA YESU;One Sweetly Solemn Thought
+188;YESU AKARAGANIZA ABAANA BE;Sweet Promise is Given
+189;TUKYANGANUKA YESU NAIJA;Joy to the World
+190;OBUSINGE KWEGONZA BIRIBAHO;There’ll Be No Dark Valley
+191;NKUGONZA;I Love Thee
+192;MU KUSEMERERWA N’OKUSIIMA;In Joyful High
+193;IWE AYANCUNGWIRE;My Maker and My King
+194;YESU ALIREMA;Jesus shall Reign
+195;NYESIGA EMIRAGO;Standing on the Promises
+196;NUWE ASEMERIIRE;Worthy worthy is the lamb
+197;BUSAHO IBARA NKE RYA YESU;There’s No Other Name like Jesus
+198;ALITUHA EMIGISAYE;There shall be Showers
+199;NKUGONZA OKUKIRA BYONA;Love Thee Better Lord
+200;AKWESIRE OGARUKE HALUWE;Jesus is tenderly Calling Today
+201;ABAGESI BARAHA?;Oh where are the Reapers?
+202;NKWETAAGA BUTOOSA;I need Thee Every Hour
+203;NYINA EKIZINA EKINGONZA;I Have A Song I Love to Sing
+204;YESU IWE AYANCUNGWIRE;O Jesus my Redeemer
+205;MUKAMA NYOWE NYINA EBIBI;Just As l Am
+206;NDIHIKA HA KYAMBU;We’ll Tarry by the Living Waters
+207;EMBABAZI EZ’AMAHANO;Amazing Grace
+208;YESU OMUGABO GWANGE;Close to Thee
+209;OTURAGE N’OBUSINGE;Lord Dismiss Us with Thy Blessing
+210;OKUSEMERERWA KWINGI;Joys are Flowing like a River
+211;AHAISANIZIBWE;Kozesa lraka lyekizina
+212;NSEMERERERWA ISIITWE OWOMU IGURU;I am so Glad That My Father
+213;TAATA ONYIRIZE HAIHI NAIWE;Closer to Thee My Father
+214;NINKUGONZA AI YESU;I know I Love Thee Better, Lord
+215;EMBABAZI EZIRUKUKIRA EKIBI;Marvelous Grace of our Loving God
+216;OMPIKYE GOROGOSA;Lead me to Calvary
+217;ARAKULINDAGA;God will take Care of You
+218;BULI KIGAMBO EKIBI;Angry Words, O Let Them Never
+219;YESU NAYETA N’EMBABAZI NYINGI;Softly and Tenderly
+220;TALl NYOWE LEKA YESU ARORWE;Not I, But Christ
+221;OBWALIIJA MUKAMA WAITU;When He Cometh
+222;NZOIRE ENGANJANI;I’ve Found a Friend
+223;NYINE ENGANJANI YANGE;I have a Friend so Precious
+224;HURRA OKUSABA KWAITU;Hear Our Prayer, O Lord
+225;KASUMI KAKE;

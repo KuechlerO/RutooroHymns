@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dip">
+
+
+    <TextView
+        android:id="@+id/about_credits_version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/darker_gray"
+
+        android:text="@string/version_info"
+        android:textSize="?attr/font_small"
+         />
+
+    <TextView
+        android:id="@+id/about_credits_developer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/darker_gray"
+
+        android:text="@string/developer"
+        android:textSize="?attr/font_small"
+        />
+
+    <TextView
+        android:id="@+id/about_credits_support"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/darker_gray"
+
+        android:text="@string/support"
+        android:textSize="?attr/font_small"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="20dp"
+        android:src="@drawable/team_selfie" />
+
+
+    <TextView
+        android:id="@+id/about_credits_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/darker_gray"
+        android:autoLink="email"
+
+        android:text="@string/contact"
+        android:textSize="?attr/font_small"
+        />
+
+</LinearLayout>

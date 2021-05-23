@@ -1,0 +1,90 @@
+<!DOCTYPE resources [
+    <!ENTITY appname "SDA - RutooroHymns">
+    <!ENTITY version "2.4">
+    ]>
+
+<resources>
+    <!---set versionName and versionCode also in build.gradle(app)-->
+    <string name="app_name">RutooroHymns</string>
+
+    <!--- HomePage -->
+    <string name="app_version_footer">Version &version;:\n You can share now all 225 songs!</string>
+    <string name="app_name_description">SDA - RutooroHymns</string>
+    <string name="song_label">Enter the song number:</string>
+    <string name="button_choose_nr">Go!</string>
+
+    <!-- SongFiles -->
+    <string name="song_file_rutooro_pre">rutooro_</string>
+    <string name="song_file_english_pre">english_</string>
+    <string name="song_file_index">songs_index</string>
+
+
+    <!-- SongDisplay -->
+    <string name="song_header">You have chosen number:\ </string>
+    <string name="title_song_display">SongDisplay</string>
+    <string name="key_songNumber">nr_key</string>
+
+    <!-- Search -->
+    <string name="search_name">Search</string>
+    <string name="search_hint">Enter title</string>
+
+    <!-- MainMenuOptions -->
+    <string name="main_about">About</string>
+    <string name="main_thanks">Thanks</string>
+    <string name="main_rating">Rate us!</string>
+    <string name="shareApp">Share the app</string>
+
+    <string name="settings">Settings</string>
+
+    <!-- Settings -->
+    <!-- shared settings keys -->
+    <string name="pref_key_fontStyle">fontSize</string>
+    <string name="pref_key_bgColor">bgColor</string>
+
+    <!-- Fontsize -->
+    <string name="pref_catFontSize">Font Size</string>
+    <string name="pref_fontSizeTitle">Set Font Size</string>
+    <string name="pref_fontSizeSumm">Set the font size</string>
+    <!--
+    <string name="pref_fontSizeDefault">12</string>
+    -->
+    <string name="pref_fontSizeDefault">Small</string>
+
+    <!-- Background color -->
+    <string name="pref_catBackgroundColor">Background Color</string>
+    <string name="pref_bgColor">Background Color</string>
+    <string name="pref_bgColorSumm">Set the color of background</string>
+    <string name="bgColorDefault">#FFFFFF</string>
+
+    <!-- SongMenuItems -->
+    <string name="search">Search</string>
+    <string name="zoom_in">Zoom in</string>
+    <string name="zoom_out">Zoom out</string>
+    <string name="shareText">Share Song Text</string>
+
+
+    <!-- About -->
+    <string name="version_info">Version: &version; </string>
+    <string name="developer">Developer: Oliver Kalule Kuechler</string>
+    <string name="support">Support &amp; Idea: Sabitii David</string>
+    <string name="contact">Contact: RutooroHymns@gmail.com</string>
+
+    <!-- Thanks -->
+    <string name="thanks_intro">Special thanks to...</string>
+    <string name="thanks_god"><b><i>God, the Almighty</i></b>, who has brought us that far!</string>
+    <string name="thanks_sabitii"><b><i>Sabitii David</i></b>, for providing the app-idea and further support,
+    which led to the initiation of this app.</string>
+    <string name="thanks_ahumuza"><b><i>Kirungi Chrispus Ahumuza</i></b>, who provided us a pdf-file containing all
+    Rutooro SDA songs and hence, saving us from a lot of more work.</string>
+    <string name="thanks_barugahara"><b><i>Barugahara Nicholas</i></b>, who supported us by reporting
+    typos in the song-texts.</string>
+    <string name="thanks_everyone"><b><i>Everyone else</i></b>, who gave us positive and
+        constructive feedback via Email and the Google-Playstore ratings. Thank you!!!</string>
+
+    <!-- Rating -->
+    <string name="rating_intro">Do you like this app?</string>
+    <string name="rating_message">Make us happy and rate our app on the
+        Google-Playstore!</string>
+    <string name="rating_later">Later...</string>
+    <string name="rating_now">Rate it now!</string>
+</resources>

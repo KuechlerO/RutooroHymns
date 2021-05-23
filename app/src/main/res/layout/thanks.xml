@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dip">
+
+
+    <TextView
+        android:id="@+id/thanks_intro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/song_margin_bottom"
+
+        android:text="@string/thanks_intro"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="?attr/font_medium"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/thanks_god"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/song_margin_bottom"
+
+        android:textColor="@android:color/darker_gray"
+        android:autoLink="web"
+
+        android:text="@string/thanks_god"
+        android:textSize="?attr/font_small"
+        />
+
+    <TextView
+        android:id="@+id/thanks_sabitii"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/song_margin_bottom"
+
+        android:text="@string/thanks_sabitii"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="?attr/font_small" />
+
+    <TextView
+        android:id="@+id/thanks_ahumuza"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/song_margin_bottom"
+
+        android:text="@string/thanks_ahumuza"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="?attr/font_small" />
+
+    <TextView
+        android:id="@+id/thanks_barugahara"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/song_margin_bottom"
+
+        android:text="@string/thanks_barugahara"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="?attr/font_small" />
+
+    <TextView
+        android:id="@+id/thanks_everyone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/song_margin_bottom"
+
+        android:text="@string/thanks_everyone"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="?attr/font_small" />
+
+</LinearLayout>

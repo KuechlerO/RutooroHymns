@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:summary="Test"
+    android:title="Preferences">
+    <PreferenceCategory android:title="@string/pref_catFontSize">
+        <!-- Textsize -->
+        <ListPreference
+            android:defaultValue="@string/pref_fontSizeDefault"
+            android:entries="@array/fontSizes"
+            android:entryValues="@array/fontSizesValues"
+            android:key="@string/pref_key_fontStyle"
+            android:summary="@string/pref_fontSizeSumm"
+            android:title="@string/pref_fontSizeTitle" />
+    </PreferenceCategory>
+
+    <!-- divider -->
+    <PreferenceCategory android:layout="@layout/divider"></PreferenceCategory>
+
+
+    <!-- Background Color -->
+    <PreferenceCategory android:title="@string/pref_catBackgroundColor">
+        <ListPreference
+            android:defaultValue="@string/bgColorDefault"
+            android:entries="@array/bgColor"
+            android:entryValues="@array/bgColorValues"
+            android:key="@string/pref_key_bgColor"
+            android:summary="@string/pref_bgColorSumm"
+            android:title="@string/pref_bgColor" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/songPageLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SongDisplay">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+        <LinearLayout
+            android:id="@+id/songPageLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="start"
+            android:orientation="vertical"
+            tools:context=".SongDisplay">
+
+        <TextView
+            android:id="@+id/songHeader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/song_margin_left"
+            android:layout_marginStart="@dimen/song_margin_left"
+            android:layout_weight="1"
+            android:maxLines="3"
+            android:textStyle="bold"
+            android:textSize="?attr/font_large"
+            />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/song_page_search_margin"
+        android:layout_marginRight="@dimen/song_page_search_margin"
+
+        android:background="@android:drawable/editbox_dropdown_light_frame"
+        android:scrollbars="none"
+        android:visibility="invisible" />
+
+</RelativeLayout>
+
