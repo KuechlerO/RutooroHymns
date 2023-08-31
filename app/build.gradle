@@ -13,7 +13,7 @@ android {
         compileSdk 33
         minSdkVersion 15     /* 14 is minimum */
         targetSdkVersion 33
-        versionCode 7
+        versionCode 8
         versionName "2.6"
         //testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
