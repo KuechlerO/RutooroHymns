@@ -3,6 +3,7 @@ package com.kalule.rutoorohymns;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceFragment;
+import android.preference.SwitchPreference;
 
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -46,6 +47,7 @@ public class SettingsActivity extends AppCompatActivity {
         public void onSharedPreferenceChanged(SharedPreferences sharedPreferences, String key) {
             // update appearance of activity
             Preferences.updateSettings(this.getActivity());
+            getActivity().recreate();
         }
     }
 
@@ -54,7 +56,6 @@ public class SettingsActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         getFragmentManager().beginTransaction().replace(android.R.id.content, new SettingsFragment()).commit();
     }
-
 
     @Override
     protected void onResume() {

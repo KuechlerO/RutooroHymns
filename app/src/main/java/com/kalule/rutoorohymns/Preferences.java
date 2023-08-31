@@ -5,8 +5,17 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.preference.PreferenceManager;
+import android.preference.SwitchPreference;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.Switch;
+import android.widget.TextView;
+
+
+import androidx.appcompat.app.AppCompatDelegate;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.preference.Preference;
 
 public class Preferences {
     private final Context context;
@@ -43,7 +52,7 @@ public class Preferences {
      * Updates the font-style and -size and also sets the background
      * @param activity  The activity which is to address
      */
-    protected static void updateSettings(Activity activity) {
+    static void updateSettings(Activity activity) {
         // style application
         activity.getTheme().applyStyle(new Preferences(activity).getFontStyle().getResId(), true);
         System.out.println(new Preferences(activity).getFontStyle().toString());
@@ -51,7 +60,6 @@ public class Preferences {
         SharedPreferences spDefaultPrefs = PreferenceManager.getDefaultSharedPreferences(activity);
 
         View root = ((ViewGroup) activity.findViewById(android.R.id.content)).getChildAt(0);
-
         // get saved color-string (2nd arg: Dummy if preference does not exist)
         String colorString = spDefaultPrefs.getString(activity.getString(R.string.pref_key_bgColor),
                 "#FFFFFF");

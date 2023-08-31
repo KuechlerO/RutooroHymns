@@ -3,19 +3,19 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
 
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/search">
+
+    </ListView>
+
     <SearchView
         android:id="@+id/search"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:iconifiedByDefault="false">
     </SearchView>
-
-    <ListView
-        android:id="@+id/listview"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:layout_below="@+id/search" >
-
-    </ListView>
 
 </RelativeLayout>

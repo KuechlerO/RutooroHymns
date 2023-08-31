@@ -28,7 +28,6 @@ import java.util.Arrays;
 
 public class SongDisplay extends AppCompatActivity {
     private LinearLayout songPageLayout;
-    private String songText = "Test";
     // get song content
     // ArrayList: 1. Number, Title; 2. Additional Info; 3. Verses and Chorus (each one in 1 string)
     private ArrayList<String []> completeSongContent;
@@ -99,7 +98,9 @@ public class SongDisplay extends AppCompatActivity {
 
         // --------- Stanza and chorus ---------
         for (String verse : completeSongContent.get(2)) {
-            String[] splittedString = verse.split("\\R", 2);    // split at newlines
+            // String[] splittedString = verse.split("\\R", 2);    // split at newlines -> Creates bugs in older Android versions
+            String[] splittedString = verse.split("\\n", 2);    // split at newlines
+
 
             TextView verseHead = createTextView(verse);
             TextView verseBody = createTextView(verse);
@@ -229,11 +230,11 @@ public class SongDisplay extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.zoomIn:
-                changeFonstStyle(true);
+                changeFontStyle(true);
                 Toast.makeText(this, "Zoom in", Toast.LENGTH_SHORT).show();
                 return true;
             case R.id.ZoomOut:
-                changeFonstStyle(false);
+                changeFontStyle(false);
                 Toast.makeText(this, "Zoom out", Toast.LENGTH_SHORT).show();
                 return true;
             case R.id.settings:
@@ -267,7 +268,7 @@ public class SongDisplay extends AppCompatActivity {
      * This function increases/decreases to a new fontStyle and recreates the activity
      * @param increase  True -> increase | False -> decrease
      */
-    private void changeFonstStyle(boolean increase) {
+    private void changeFontStyle(boolean increase) {
         Preferences preferences = new Preferences(this);
         FontStyle currentFontStyle = preferences.getFontStyle();
 

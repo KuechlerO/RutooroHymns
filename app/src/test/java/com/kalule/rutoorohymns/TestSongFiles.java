@@ -11,14 +11,14 @@ import static org.junit.Assert.*;
 
 
 public class TestSongFiles {
-    private String rawDirectoryPath = "/Users/oliverkuchler/AndroidStudioProjects/RutooroHymns/app/src/main/res/raw";
-    private int number_of_songs = 300;
+    private final String rawDirectoryPath = "/Users/oliverkuchler/AndroidStudioProjects/RutooroHymns/app/src/main/res/raw";
+    private final int number_of_songs = 300;
 
 
-    @Test
     /**
      * Checks whether the song-number in the song-file is set correctly
      */
+    @Test
     public void header_isCorrect() {
         for (int i = 0; i <= number_of_songs; i++) {
             File dir = new File(rawDirectoryPath);
@@ -116,10 +116,11 @@ public class TestSongFiles {
         }
     }
 
-    @Test
+
     /**
      * Checks the correct placement of whitespaces in the files
      */
+    @Test
     public void check_Whitespaces() {
         for (int i = 0; i <= number_of_songs; i++) {
             File dir = new File(rawDirectoryPath);
@@ -158,8 +159,8 @@ public class TestSongFiles {
                                             line.contains("? ") || line.endsWith("?"));
                                 }
 
-                                assertTrue(!line.contains("Chorus:"));
-                                assertTrue(!line.startsWith(":"));
+                                assertFalse(line.contains("Chorus:"));
+                                assertFalse(line.startsWith(":"));
                             }
                             reader.close();
                         }
@@ -179,11 +180,12 @@ public class TestSongFiles {
         }
     }
 
-    @Test
+
     /**
      * Checks the correct appearance of numbers in the songs. E.g. A1l (1 instead of l) is not
      * allowed
      */
+    @Test
     public void check_numbers_in_songs() {
         for (int i = 0; i <= number_of_songs; i++) {
             File dir = new File(rawDirectoryPath);
@@ -225,10 +227,10 @@ public class TestSongFiles {
         }
     }
 
-    @Test
     /**
      * Checks whether all entries in the song index list are unique
      */
+    @Test
     public void check_duplicates_song_index() {
         File song_index_file = new File(rawDirectoryPath + "/songs_index.txt");
 
@@ -249,8 +251,8 @@ public class TestSongFiles {
                                     "title at least needed", x_song.length >= 2);
                     for (String song_info_x: x_song) {
                         for (String song_info_y : y_song) {
-                            assertTrue("Lines " + (i + 1) + " and " + (j + 1) + " have an value " +
-                                    "overlap: " + song_info_x, !song_info_x.equals(song_info_y));
+                            assertFalse("Lines " + (i + 1) + " and " + (j + 1) + " have an value " +
+                                    "overlap: " + song_info_x, song_info_x.equals(song_info_y));
                         }
                     }
                 }
@@ -270,7 +272,7 @@ public class TestSongFiles {
      * @param line A given string
      * @return Boolean: True if line contains one item of items, else False
      */
-    private boolean checkIfLineContains(String items [], String line) {
+    private boolean checkIfLineContains(String[] items, String line) {
         for (String item: items) {
             if (line.contains(item)) {
                 return true;

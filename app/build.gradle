@@ -8,14 +8,13 @@ android {
     useLibrary 'android.test.mock'
     */
 
-    compileSdkVersion 29
-    buildToolsVersion "29.0.0"
     defaultConfig {
         applicationId "com.kalule.rutoorohymns"
-        minSdkVersion 15
-        targetSdkVersion 29
-        versionCode 6
-        versionName "2.4"
+        compileSdk 33
+        minSdkVersion 15     /* 14 is minimum */
+        targetSdkVersion 33
+        versionCode 7
+        versionName "2.6"
         //testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -32,12 +31,14 @@ android {
             returnDefaultValues = true
         }
     }
+    namespace 'com.kalule.rutoorohymns'
 }
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'androidx.appcompat:appcompat:1.0.2'
-    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.preference:preference:1.2.1'
 
 
     // Required -- JUnit 4 framework

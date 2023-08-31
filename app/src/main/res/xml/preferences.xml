@@ -19,6 +19,7 @@
 
     <!-- Background Color -->
     <PreferenceCategory android:title="@string/pref_catBackgroundColor">
+
         <ListPreference
             android:defaultValue="@string/bgColorDefault"
             android:entries="@array/bgColor"

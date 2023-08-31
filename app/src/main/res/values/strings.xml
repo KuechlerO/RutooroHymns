@@ -1,6 +1,6 @@
 <!DOCTYPE resources [
     <!ENTITY appname "SDA - RutooroHymns">
-    <!ENTITY version "2.4">
+    <!ENTITY version "2.6">
     ]>
 
 <resources>
@@ -40,8 +40,9 @@
     <!-- shared settings keys -->
     <string name="pref_key_fontStyle">fontSize</string>
     <string name="pref_key_bgColor">bgColor</string>
+    <string name="pref_key_theme">key_appTheme</string>
 
-    <!-- Fontsize -->
+    <!-- Font size -->
     <string name="pref_catFontSize">Font Size</string>
     <string name="pref_fontSizeTitle">Set Font Size</string>
     <string name="pref_fontSizeSumm">Set the font size</string>
@@ -55,6 +56,8 @@
     <string name="pref_bgColor">Background Color</string>
     <string name="pref_bgColorSumm">Set the color of background</string>
     <string name="bgColorDefault">#FFFFFF</string>
+
+    <string name="pref_theme_switch">Switch to night mode</string>
 
     <!-- SongMenuItems -->
     <string name="search">Search</string>
@@ -78,8 +81,9 @@
     Rutooro SDA songs and hence, saving us from a lot of more work.</string>
     <string name="thanks_barugahara"><b><i>Barugahara Nicholas</i></b>, who supported us by reporting
     typos in the song-texts.</string>
-    <string name="thanks_everyone"><b><i>Everyone else</i></b>, who gave us positive and
-        constructive feedback via Email and the Google-Playstore ratings. Thank you!!!</string>
+    <string name="thanks_everyone"><b><i>Arnold Parker Lennart &amp; everyone else</i></b>,
+        who gave us positive and constructive feedback via Email and the Google-Playstore ratings.
+        Thank you!!!</string>
 
     <!-- Rating -->
     <string name="rating_intro">Do you like this app?</string>
